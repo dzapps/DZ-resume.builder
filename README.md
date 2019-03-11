@@ -1,2 +1,2 @@
 # resume-builder
-[Demo](http://whoami-shubham.github.io/resume-builder)
+[Demo](https://dzapps.github.io/DZ-resume.builder/)
